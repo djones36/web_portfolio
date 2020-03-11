@@ -2718,14 +2718,14 @@ input[type="submit"].primary:hover,
 input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 .button.primary:hover {
-  background-color: #5ed0b1;
+  background-color: #0095ff;
 }
 
 input[type="submit"].primary:active,
 input[type="reset"].primary:active,
 input[type="button"].primary:active,
 .button.primary:active {
-  background-color: #39c29d;
+  background-color: #84ccff;
 }
 
 input[type="submit"].disabled,
@@ -2794,7 +2794,7 @@ input[type="button"]:disabled,
   -ms-justify-content: space-between;
   justify-content: space-between;
   background: #086492;
-  color: #d2f2e9;
+  color: #086492;
   height: 100%;
   overflow-y: auto;
   position: fixed;
@@ -2827,7 +2827,7 @@ input[type="button"]:disabled,
 }
 
 #header a {
-  color: #d2f2e9;
+  color: #086492;
 }
 
 #header a:hover {
@@ -2854,7 +2854,7 @@ input[type="button"]:disabled,
 }
 
 #header > header p {
-  color: #d2f2e9;
+  color: #086492;
   font-style: italic;
   margin: 1em 0 0 0;
 }
@@ -2892,7 +2892,7 @@ input[type="button"]:disabled,
 }
 
 #header > nav ul li {
-  border-top: solid 2px #5ccfb1;
+  border-top: solid 2px #084ba7;
   display: block;
   padding: 0;
 }
