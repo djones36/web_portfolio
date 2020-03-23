@@ -2931,7 +2931,7 @@ input[type="button"]:disabled,
 }
 
 #main > section > .container {
-  padding: 6em 0 4em 0;
+  padding: 2em 0 1em 0;
 }
 
 #main > section:first-child {
@@ -3007,7 +3007,7 @@ input[type="button"]:disabled,
   /* Main */
 
   #main > section > .container {
-    padding: 4em 0 2em 0;
+    padding: 2em 0 1em 0;
   }
 }
 
