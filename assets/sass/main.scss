@@ -1416,7 +1416,7 @@ input[type="button"],
     border-top: solid (_size(border-width) * 3) _palette(border);
 
     > .container {
-      padding: 6em 0 4em 0;
+      padding: 2em 0 4em 0;
     }
 
     &:first-child {
@@ -1502,7 +1502,7 @@ input[type="button"],
   #main {
     > section {
       > .container {
-        padding: 4em 0 2em 0;
+        padding: 2em 0 2em 0;
       }
     }
   }
