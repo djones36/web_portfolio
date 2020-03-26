@@ -3263,7 +3263,9 @@ input[type="button"]:disabled,
   }
 
   /* Section/Article */
-
+  .proImg {
+    display: none;
+  }
   header br {
     display: none;
   }
@@ -3282,7 +3284,7 @@ input[type="button"]:disabled,
     display: block;
     margin: 0 0 2.25em 0;
     padding-right: 0;
-    width: 100%;
+    width: 50%;
   }
 
   .features article .inner {
